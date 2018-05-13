@@ -11,3 +11,7 @@ iOSBuild/*
 *.pidb
 *.booproj
 *.svd
+
+ci.sh
+xcodebuild/*
+Temp/*
